@@ -1,0 +1,11 @@
+C:\Users\Yolly\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\ObjectComposer\bin\Debug\netcoreapp2.1\ObjectComposer.deps.json
+C:\Users\Yolly\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\ObjectComposer\bin\Debug\netcoreapp2.1\ObjectComposer.runtimeconfig.json
+C:\Users\Yolly\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\ObjectComposer\bin\Debug\netcoreapp2.1\ObjectComposer.runtimeconfig.dev.json
+C:\Users\Yolly\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\ObjectComposer\bin\Debug\netcoreapp2.1\ObjectComposer.dll
+C:\Users\Yolly\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\ObjectComposer\bin\Debug\netcoreapp2.1\ObjectComposer.pdb
+C:\Users\Yolly\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\ObjectComposer\obj\Debug\netcoreapp2.1\ObjectComposer.csprojAssemblyReference.cache
+C:\Users\Yolly\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\ObjectComposer\obj\Debug\netcoreapp2.1\ObjectComposer.csproj.CoreCompileInputs.cache
+C:\Users\Yolly\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\ObjectComposer\obj\Debug\netcoreapp2.1\ObjectComposer.AssemblyInfoInputs.cache
+C:\Users\Yolly\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\ObjectComposer\obj\Debug\netcoreapp2.1\ObjectComposer.AssemblyInfo.cs
+C:\Users\Yolly\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\ObjectComposer\obj\Debug\netcoreapp2.1\ObjectComposer.dll
+C:\Users\Yolly\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\ObjectComposer\obj\Debug\netcoreapp2.1\ObjectComposer.pdb
