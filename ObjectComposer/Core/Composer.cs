@@ -103,6 +103,7 @@ namespace ObjectComposer.Core
 
         public void TestCheckablesExlusionSifter()
         {
+            // TODO : HERE
             List<IComposite> testObjectList = new List<IComposite>();
 
             // for each item in the CheckablesExclusionList, check all items in the inputObjectList and remove them (move the rest in a new dictionary)
