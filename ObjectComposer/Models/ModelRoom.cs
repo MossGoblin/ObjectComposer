@@ -6,7 +6,7 @@ using System.Text;
 
 namespace ObjectComposer.Models
 {
-    class ModelRoom : IComposite
+    class ModelRoom : IElement
     {
         private int width;
 

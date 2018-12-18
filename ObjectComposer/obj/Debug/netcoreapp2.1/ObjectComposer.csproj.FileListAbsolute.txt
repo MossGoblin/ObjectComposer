@@ -9,3 +9,14 @@ C:\Users\Yolly\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\Objec
 C:\Users\Yolly\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\ObjectComposer\obj\Debug\netcoreapp2.1\ObjectComposer.AssemblyInfo.cs
 C:\Users\Yolly\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\ObjectComposer\obj\Debug\netcoreapp2.1\ObjectComposer.dll
 C:\Users\Yolly\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\ObjectComposer\obj\Debug\netcoreapp2.1\ObjectComposer.pdb
+C:\Users\hugol\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\ObjectComposer\bin\Debug\netcoreapp2.1\ObjectComposer.deps.json
+C:\Users\hugol\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\ObjectComposer\bin\Debug\netcoreapp2.1\ObjectComposer.runtimeconfig.json
+C:\Users\hugol\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\ObjectComposer\bin\Debug\netcoreapp2.1\ObjectComposer.runtimeconfig.dev.json
+C:\Users\hugol\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\ObjectComposer\bin\Debug\netcoreapp2.1\ObjectComposer.dll
+C:\Users\hugol\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\ObjectComposer\bin\Debug\netcoreapp2.1\ObjectComposer.pdb
+C:\Users\hugol\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\ObjectComposer\obj\Debug\netcoreapp2.1\ObjectComposer.csprojAssemblyReference.cache
+C:\Users\hugol\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\ObjectComposer\obj\Debug\netcoreapp2.1\ObjectComposer.csproj.CoreCompileInputs.cache
+C:\Users\hugol\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\ObjectComposer\obj\Debug\netcoreapp2.1\ObjectComposer.AssemblyInfoInputs.cache
+C:\Users\hugol\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\ObjectComposer\obj\Debug\netcoreapp2.1\ObjectComposer.AssemblyInfo.cs
+C:\Users\hugol\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\ObjectComposer\obj\Debug\netcoreapp2.1\ObjectComposer.dll
+C:\Users\hugol\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\ObjectComposer\obj\Debug\netcoreapp2.1\ObjectComposer.pdb

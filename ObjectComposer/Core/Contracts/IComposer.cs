@@ -7,6 +7,6 @@ namespace ObjectComposer.Core.Contracts
 {
     public interface IComposer
     {
-        List<IComposite> GetComposedList();
+        List<IElement> GetComposedList();
     }
 }

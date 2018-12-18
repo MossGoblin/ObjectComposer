@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ObjectComposer.Models.Contracts
 {
-    public interface IComposite
+    public interface IElement
     {
         int Width { get; set; }
         int Height { get; set; }

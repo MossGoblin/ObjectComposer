@@ -1,4 +1,5 @@
 ﻿using ObjectComposer.Core.Contracts;
+using ObjectComposer.Models;
 using ObjectComposer.Models.Attributes;
 using ObjectComposer.Models.Contracts;
 using System;
@@ -11,7 +12,7 @@ namespace ObjectComposer.Core
 {
     class Composer : IComposer
     {
-        readonly IReadOnlyCollection<IComposite> inputObjectList;
+        readonly IReadOnlyCollection<IElement> inputObjectList;
 
         private Dictionary<string, decimal> SifterLesserScalablesList;
         private Dictionary<string, decimal> SifterGreaterScalablesList;
@@ -19,7 +20,7 @@ namespace ObjectComposer.Core
         private Dictionary<string, bool> CheckablesExclusionList;
         private Dictionary<string[], decimal[]> BarrelsList;
 
-        public Composer(IReadOnlyCollection<IComposite> inputObjectList)
+        public Composer(IReadOnlyCollection<IElement> inputObjectList)
         {
             this.inputObjectList = inputObjectList;
             SifterLesserScalablesList = new Dictionary<string, decimal>();
@@ -31,14 +32,14 @@ namespace ObjectComposer.Core
             // Process Input List
         }
 
-        IReadOnlyCollection<IComposite> InputObjectList
+        IReadOnlyCollection<IElement> InputObjectList
         {
             get
             {
                 return InputObjectList;
             }
         }
-        public List<IComposite> GetComposedList()
+        public List<IElement> GetComposedList()
         {
             throw new NotImplementedException();
         }
@@ -101,26 +102,31 @@ namespace ObjectComposer.Core
             }
         }
 
+        // TODO : TESTING
         public void TestCheckablesExlusionSifter()
         {
-            List<IComposite> testObjectList = new List<IComposite>();
+            List<IElement> testObjectList = new List<IElement>();
 
             // for each item in the CheckablesExclusionList, check all items in the inputObjectList and remove them (move the rest in a new dictionary)
 
             // for first attempt will use only one foreach, as we'll use only one sifter
 
-            foreach (var obj in inputObjectList)
+            foreach (ModelRoom obj in inputObjectList)
             {
                 // Access the instance
                 Type objInstType = obj.GetType();
-                var objInst = Assembly.GetExecutingAssembly().GetTypes().FirstOrDefault(x => x.Name == obj.GetType().Name);
-                var testField = objInst.GetField("HasSecretEntrance");
+                var objInstTypeName = obj.GetType().Name;
+                var objInst = Assembly.GetAssembly(objInstType).GetTypes().FirstOrDefault(x => x.Name == objInstTypeName);
+                //var objInst = Assembly.GetCallingAssembly().GetTypes().FirstOrDefault(x => x.Name == objInstTypeName);
+
+                //var testField = objInst.BaseType.GetField("HasSecretEntrance");
+                var testField = objInst.BaseType.GetProperty("HasSecretEntrance");
 
                 ////testField.SetValue(objInst, "HasSecretEntrance");
                 //var propValue = testField.GetValue(objInst);
 
                 //var propValue = objInst.GetProperty("HasSecretEntrance").GetValue(objInst);
-                var propValue = objInstType.GetProperty("HasSecretEntrance").GetValue(objInstType);
+                var propValue = objInst.GetProperty("HasSecretEntrance").GetValue(objInstType);
 
                 // src.GetType().GetProperty(propName).GetValue(src, null);
             }

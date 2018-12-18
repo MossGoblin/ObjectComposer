@@ -30,7 +30,7 @@ namespace ObjectComposer.Core
             gatherer.AddObject(new ModelRoom(4, 3, 32, "13Room", RoomType.Quarters, RoomProfile.Military, false));
             gatherer.AddObject(new ModelRoom(5, 4, 60, "14Room", RoomType.Quarters, RoomProfile.Science, false));
 
-            List<IComposite> gatheredObjects = gatherer.GetObjectList();
+            List<IElement> gatheredObjects = gatherer.GetObjectList();
 
             Composer composer = new Composer(gatheredObjects);
 

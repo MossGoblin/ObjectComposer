@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hugol\\Google Drive\\Codee\\[ GITHUBBED ]\\[ MyStuff ]\\ObjectComposer\\ObjectComposer\\ObjectComposer.csproj",
-      "projectName": "ObjectComposer",
-      "projectPath": "C:\\Users\\hugol\\Google Drive\\Codee\\[ GITHUBBED ]\\[ MyStuff ]\\ObjectComposer\\ObjectComposer\\ObjectComposer.csproj",
+      "projectUniqueName": "C:\\Users\\hugol\\Google Drive\\Codee\\[ GITHUBBED ]\\[ MyStuff ]\\ObjectComposer\\Lab\\Lab.csproj",
+      "projectName": "Lab",
+      "projectPath": "C:\\Users\\hugol\\Google Drive\\Codee\\[ GITHUBBED ]\\[ MyStuff ]\\ObjectComposer\\Lab\\Lab.csproj",
       "packagesPath": "C:\\Users\\hugol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hugol\\Google Drive\\Codee\\[ GITHUBBED ]\\[ MyStuff ]\\ObjectComposer\\ObjectComposer\\obj\\",
+      "outputPath": "C:\\Users\\hugol\\Google Drive\\Codee\\[ GITHUBBED ]\\[ MyStuff ]\\ObjectComposer\\Lab\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

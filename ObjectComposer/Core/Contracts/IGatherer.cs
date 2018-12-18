@@ -7,6 +7,6 @@ namespace ObjectComposer.Core.Contracts
 {
     public interface IGatherer
     {
-        List<IComposite> GetObjectList();
+        List<IElement> GetObjectList();
     }
 }

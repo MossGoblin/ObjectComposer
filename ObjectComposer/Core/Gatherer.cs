@@ -8,25 +8,25 @@ namespace ObjectComposer.Core
 {
     public class Gatherer : IGatherer
     {
-        private List<IComposite> objectList;
+        private List<IElement> objectList;
 
         public Gatherer()
         {
-            objectList = new List<IComposite>();
+            objectList = new List<IElement>();
         }
 
-        public List<IComposite> ObjectList
+        public List<IElement> ObjectList
         {
             get { return objectList; }
             set { objectList = value; }
         }
 
-        public List<IComposite> GetObjectList()
+        public List<IElement> GetObjectList()
         {
             return ObjectList;
         }
 
-        public void AddObject(IComposite obj)
+        public void AddObject(IElement obj)
         {
             this.ObjectList.Add(obj);
         }

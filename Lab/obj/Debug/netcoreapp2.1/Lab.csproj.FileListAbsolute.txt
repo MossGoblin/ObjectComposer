@@ -1,0 +1,11 @@
+C:\Users\hugol\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\Lab\bin\Debug\netcoreapp2.1\Lab.deps.json
+C:\Users\hugol\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\Lab\bin\Debug\netcoreapp2.1\Lab.dll
+C:\Users\hugol\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\Lab\bin\Debug\netcoreapp2.1\Lab.pdb
+C:\Users\hugol\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\Lab\obj\Debug\netcoreapp2.1\Lab.csprojAssemblyReference.cache
+C:\Users\hugol\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\Lab\obj\Debug\netcoreapp2.1\Lab.csproj.CoreCompileInputs.cache
+C:\Users\hugol\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\Lab\obj\Debug\netcoreapp2.1\Lab.AssemblyInfoInputs.cache
+C:\Users\hugol\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\Lab\obj\Debug\netcoreapp2.1\Lab.AssemblyInfo.cs
+C:\Users\hugol\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\Lab\obj\Debug\netcoreapp2.1\Lab.dll
+C:\Users\hugol\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\Lab\obj\Debug\netcoreapp2.1\Lab.pdb
+C:\Users\hugol\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\Lab\bin\Debug\netcoreapp2.1\Lab.runtimeconfig.json
+C:\Users\hugol\Google Drive\Codee\[ GITHUBBED ]\[ MyStuff ]\ObjectComposer\Lab\bin\Debug\netcoreapp2.1\Lab.runtimeconfig.dev.json
