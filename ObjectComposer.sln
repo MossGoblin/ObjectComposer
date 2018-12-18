@@ -4,8 +4,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectComposer", "ObjectComposer\ObjectComposer.csproj", "{FDC38C84-D18C-45BF-9DF2-6181C1E37558}"
+<<<<<<< HEAD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab", "Lab\Lab.csproj", "{B99E22BF-07B9-4071-B437-93AF5745FAF1}"
+=======
+>>>>>>> a169354d78a80eaec38cb2842d516fccf732fa55
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

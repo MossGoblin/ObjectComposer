@@ -105,7 +105,12 @@ namespace ObjectComposer.Core
         // TODO : TESTING
         public void TestCheckablesExlusionSifter()
         {
+<<<<<<< HEAD
             List<IElement> testObjectList = new List<IElement>();
+=======
+            // TODO : HERE
+            List<IComposite> testObjectList = new List<IComposite>();
+>>>>>>> a169354d78a80eaec38cb2842d516fccf732fa55
 
             // for each item in the CheckablesExclusionList, check all items in the inputObjectList and remove them (move the rest in a new dictionary)
 
